@@ -1,6 +1,6 @@
 Full-Stack Project with Laravel 8 and React 17
 
-This project is a full-stack web application built using Laravel 8 for the backend and React 17 for the frontend. The backend code is located in the root folder, and the frontend code is located in the 'frontend' folder.
+This project is a full-stack web application built using Laravel 8 for the backend and React 17 for the frontend. The backend code is located in the root folder, and the frontend code is located in the 'frontend-react' folder.
 
 Backend (Laravel 8)
 
@@ -23,7 +23,7 @@ The server will start running at http://localhost:8000.
 Frontend (React 17)
 
 Setup
-1. Navigate to the 'frontend' folder: cd frontend.
+1. Navigate to the 'frontend-react' folder: cd frontend.
 2. Install dependencies: npm install or yarn install.
 
 Development Server
